@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854196046657",
+    "project_id": "fir-database-de968",
+    "storage_bucket": "fir-database-de968.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854196046657:android:77687e80f9254aea7dafc0",
+        "android_client_info": {
+          "package_name": "com.example.firebase_database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg5o2nmBHfyhNmFxnkHBpFyX0fXCVBFzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
